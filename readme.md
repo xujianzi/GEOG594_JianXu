@@ -34,7 +34,7 @@ This BDA course is leaded by [Dr. Ming-Hsiang Tsou](https://map.sdsu.edu/tsou/).
 
 Please check the following link for the BDA/GEOG594 class:
 
-[![classLink](http:github.com/xujianzi/GEOG594_JianXu/images/zoomIcon.png)](https://SDSU.zoom.us/j/92132858090)
+[![classLink](https://github.com/xujianzi/GEOG594_JianXu/blob/dev/images/zoomIcon.png)](https://SDSU.zoom.us/j/92132858090)
 Class Link:https://SDSU.zoom.us/j/92132858090
 
 ## Content2
